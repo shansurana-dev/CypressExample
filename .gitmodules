@@ -1,6 +1,6 @@
-[submodule "cypress-cucumber-examples-features"]
+[submodule "cypress-cucumber-implementation"]
 	path = cypress-cucumber-examples-features
-	url = git@github.com:jmarti-theinit/cypress-cucumber-examples-features.git
+	url = git@github.com:shansurana-dev/CypressImplementation.git
 [submodule "gherkin-features"]
 	path = gherkin-features
-	url = git@github.com:jmarti-theinit/cypress-cucumber-examples-features.git
+	url = git@github.com:shansurana-dev/CypressImplementation.git
